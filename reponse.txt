@@ -1,0 +1,25 @@
+1) Conserver un historique
+Revenir en arrière en cas de problèmes 
+Travailler à plusieurs
+Suivre les modifications de chaqque fichier
+
+2)Vrai
+
+3)git init 
+
+4)Cloud
+Repository
+
+5)
+
+6)git clone https://github.com/xxxxxx/monDepotDistant
+
+7)git branch BranchFile
+git checkout BranchFile
+git stash
+
+8)revenir au commit précédent
+
+9)git revert crée un nouveau commit alors que git reset, non
+
+10)git blam
